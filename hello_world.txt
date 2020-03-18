@@ -1,2 +1,4 @@
 this is the first line
 some changes that only exist in master
+adding a second line
+adding a third line
